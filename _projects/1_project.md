@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Chontal de Oaxaca
+description: Proyecto INAH
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: lingüística
 related_publications: true
 ---
 

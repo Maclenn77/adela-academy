@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
-nav: true
+permalink: /help/
+title: help
+nav: false
 nav_order: 1
 pagination:
   enabled: true
   collection: posts
-  category: regular
-  permalink: /page/:num/
+  category: sample-posts
+  permalink: /help/:num/
   per_page: 5
   sort_field: date
   sort_reverse: true
