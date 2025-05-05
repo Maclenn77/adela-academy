@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Adela Covarrubias Acosta",
+    "label": "Lingüista",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ciclopropanot@gmail.com",
+    "phone": "",
+    "url": "https://adelacovarrubias.com",
+    "summary": "A  Ph.D. candidate currently working on San Bartolo Yautepec Zapotec phonology and syntax.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Ciudad de México",
+      "countryCode": "MX",
+      "region": "Ciudad de México"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": " adela_cov",
+        "url": "https://instagram.com/adela_cov"
       }
     ]
   },
@@ -60,9 +60,9 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Premio Wigberto Jiménez Moreno",
+      "date": "2020",
+      "awarder": "Instituto Nacional de Antropología e Historia",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
