@@ -8,6 +8,6 @@ children:
   - title: cv
     permalink: /cv/
   - title: divider
-  - title: animaciones
-    permalink: /animaciones/
+  - title: help
+    permalink: /help/
 ---

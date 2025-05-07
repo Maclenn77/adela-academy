@@ -2,7 +2,7 @@
 layout: page
 title: Chontal de Oaxaca
 description: Proyecto INAH
-img: assets/img/12.jpg
+img: # assets/img/12.jpg
 importance: 1
 category: lingüística
 related_publications: true

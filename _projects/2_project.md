@@ -1,81 +1,19 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Recopilación de conocimiento ambiental en lenguas zapotecas
+description: Recopilación de conocimiento ambiental en lenguas zapotecas en peligro de desplazamiento y con poca documentación
+img: # assets/img/3.jpg
 importance: 2
-category: work
+category: lingüística
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Proyecto de Documentación del Conocimiento Ambiental en Lenguas Zapotecas
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+El proyecto "Recopilación de conocimiento ambiental en lenguas zapotecas en peligro de desplazamiento y con poca documentación", dirigido por la Dra. Rosemary Beam de Azcona del Posgrado de Lingüística de la ENAH, busca rescatar y documentar el conocimiento ambiental ancestral preservado en seis lenguas zapotecas en riesgo de desaparecer en Oaxaca. Financiado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación y avalado por el INAH, este estudio de dos años y medio (2024-2026) se enfoca en idiomas como el xkissia, zhiaza, ri'dx, rizh y dise, seleccionados por su escasa documentación previa y alto grado de vulnerabilidad. El proyecto abarca comunidades en múltiples municipios oaxaqueños e integra un equipo multidisciplinario de lingüistas, investigadores y miembros de las propias comunidades zapotecas.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+La importancia de esta iniciativa radica en que el conocimiento ambiental de una sociedad está codificado en las palabras que nombran su entorno, accesible a través del vocabulario y la etimología de sus lenguas originarias. El estudio no solo documenta estas lenguas amenazadas (algunas con apenas cuatro hablantes como el zhiaza), sino que reconoce que el verdadero rescate lingüístico debe ser liderado por los propios hablantes e integrantes de las comunidades, por lo que los académicos asumen un rol de acompañamiento y apoyo técnico. Este enfoque colaborativo valora tanto el conocimiento lingüístico como el saber ambiental tradicional que estas comunidades han desarrollado a lo largo de generaciones.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+El impacto esperado del proyecto se materializará en diversos productos: una serie de cuatro volúmenes sobre San Bartolomé Loxicha, un libro especializado de terminología ambiental en español y diferentes lenguas zapotecas para la comunidad académica, una publicación sobre conocimiento ambiental para el público general, y un repositorio digital que podría alojarse en la Fonoteca del INAH o en el Archivo de los Idiomas Indígenas de Latinoamérica. Además, busca promover el desarrollo de lingüistas zapotecos jóvenes y motivar a futuras generaciones a estudiar estas lenguas, contribuyendo así a la preservación de la riqueza lingüística y cultural de México mientras se recuperan saberes ambientales ancestrales de gran valor para la sociedad contemporánea.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Fuente: [Boletín INAH (49)](https://www.inah.gob.mx/images/boletines/2025/49/Boletin%2049.pdf)

@@ -3,7 +3,9 @@
 # the socials will be displayed in the order they are defined here
 
 # acm_id: # your dl.acm.org/profile/id
-academia_edu_id: colmex.AdelaCovarrubias # institution.academiaedu_id Add your institution and academia.edu id
+academia_edu: 
+  organization: colmex
+  username: AdelaCovarrubias # institution.academiaedu_id Add your institution and academia.edu id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url

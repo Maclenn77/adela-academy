@@ -2,7 +2,7 @@
 layout: page
 title: proyectos
 permalink: /proyectos/
-description: A growing collection of your cool projects.
+description: Colección de proyectos en los que participo
 nav: true
 nav_order: 3
 display_categories: [lingüística, animaciones]

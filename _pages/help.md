@@ -6,7 +6,7 @@ nav: false
 nav_order: 1
 pagination:
   enabled: true
-  collection: posts
+  collection: helps
   category: sample-posts
   permalink: /help/:num/
   per_page: 5
@@ -19,14 +19,14 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+{% assign blog_name_size = site.help_name | size %}
+{% assign blog_description_size = site.help_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1>{{ site.help_name }}</h1>
+    <h2>{{ site.help_description }}</h2>
   </div>
   {% endif %}
 
@@ -36,7 +36,7 @@ pagination:
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
         <li>
-          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
+          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/help/tag/' | relative_url }}">{{ tag }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -47,7 +47,7 @@ pagination:
       {% endif %}
       {% for category in site.display_categories %}
         <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
+          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/help/category/' | relative_url }}">{{ category }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -108,14 +108,14 @@ pagination:
 
     {% if page.pagination.enabled %}
       {% assign postlist = "" | split: "" %}
-        {% for post in paginator.posts %}
+        {% for post in paginator.helps %}
           {% unless post.categories contains 'sample-posts' %}
             {% assign postlist = postlist | push: post %}
           {% endunless %}
         {% endfor %}
-      {% assign postlist = paginator.posts %}
+      {% assign postlist = paginator.helps %}
     {% else %}
-      {% assign postlist = site.posts %}
+      {% assign postlist = site.helps %}
     {% endif %}
 
     {% for post in postlist %}
