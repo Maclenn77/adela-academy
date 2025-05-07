@@ -6,7 +6,7 @@ subtitle: Lingüista, candidata a doctora en El Colegio de México.
 
 profile:
   align: left
-  image: adela_profile.jpg
+  image: adela_profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dirección de Lingüística</p>
