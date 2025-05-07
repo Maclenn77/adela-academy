@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dirección de Lingüística</p>
-    <p>Av. Paseo de la Reforma y Calz. Gandhi, Col. Polanco Chapultepec</p>
+    <p>Av. Paseo de la Reforma y Calz. Gandhi,</p>
+    <p>Col. Polanco Chapultepec</p>
     <p>C.P. 11560, México, D.F.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
