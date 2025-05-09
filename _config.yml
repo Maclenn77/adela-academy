@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://juanpaulo.xyz" target="_blank">J. P. Pérez Tejada</a>.
 keywords: Adela Covarrubias, Zapoteco, COLMEX, academic-website, INAH # add your own keywords or leave empty
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ɨ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ʔ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://adelacovarrubias.com # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
