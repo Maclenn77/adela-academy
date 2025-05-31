@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-sobre-mí",
-    title: "Sobre mí",
+    id: "nav-sobre-adela",
+    title: "Sobre Adela",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -60,6 +60,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/escritura-academica/";
+          
+        },
+      },{id: "post-a-post-with-audios",
+        
+          title: "a post with audios",
+        
+        description: "this is what included audios could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/audios/";
+          
+        },
+      },{id: "post-nuevo-post",
+        
+          title: "Nuevo post",
+        
+        description: "Un nuevo post de ejemplo",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nuevo-post/";
           
         },
       },{id: "books-the-godfather",
@@ -135,7 +157,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%69%63%6C%6F%70%72%6F%70%61%6E%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%61%64%65%6C%61_%63%6F%76%61%72%72%75%62%69%61%73@%69%6E%61%68.%67%6F%62.%6D%78", "_blank");
         },
       },{
         id: 'social-rss',
