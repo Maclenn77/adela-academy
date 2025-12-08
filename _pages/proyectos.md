@@ -3,7 +3,7 @@ layout: page
 title: proyectos
 permalink: /proyectos/
 description: Colección de proyectos en los que participo
-nav: true
+nav: false
 nav_order: 3
 display_categories: [lingüística, animaciones]
 horizontal: false
