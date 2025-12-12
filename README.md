@@ -6,6 +6,10 @@
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
+## Guides
+
+- [Update webpage](http://blog.juanpaulo.xyz/guides/Actualizar_pagina_web_de_Adela/)
+
 ---
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
