@@ -2,7 +2,7 @@
 layout: about
 title: Sobre Adela
 permalink: /
-subtitle: Lingüista, candidata a doctora en El Colegio de México. 
+subtitle: Lingüista, Profesor Asociado B en la Dirección de Lingüística, INAH, México. 
 
 profile:
   align: left
@@ -23,9 +23,9 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Lingüista mexicana dedicada al estudio y preservación de las lenguas indígenas. Documento la variante zapoteco de San Bartolo Yautepec, que está en riesgo de desaparecer. Formada en la Escuela Nacional de Antropología e Historia, actualmente desarrollo mi investigación doctoral sobre la fonología histórica de esta lengua oaxaqueña en el Colegio de México.
+Lingüista mexicana dedicada al estudio y preservación de las lenguas indígenas. Documento la variante zapoteco de San Bartolo Yautepec, que está en riesgo de desaparecer. Formada en la Escuela Nacional de Antropología e Historia, desarrollé mi investigación doctoral sobre la fonología histórica de esta lengua oaxaqueña en el Colegio de México. Actualmente estudio la fonología y morfo-sintaxis del chontal de Oaxaca serrano, así como varios aspectos de la fonología y sintaxis del zapoteco de San Bartolo Yautepec.

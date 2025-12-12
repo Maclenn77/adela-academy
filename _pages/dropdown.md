@@ -1,9 +1,9 @@
 ---
 layout: page
 title: más
-nav: true
+nav: false
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: cv
     permalink: /cv/

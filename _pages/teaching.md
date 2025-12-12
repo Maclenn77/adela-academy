@@ -3,7 +3,7 @@ layout: page
 permalink: /cursos/
 title: cursos
 description: Materiales de cursos impartidos.
-nav: true
+nav: false
 nav_order: 6
 ---
 
